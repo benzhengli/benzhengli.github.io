@@ -2,7 +2,7 @@ document.write("<table width=\"650\" border=\"0\" height=\"184\">");
 document.write("<tbody>");
 document.write("<tr>");
 document.write("<td> <img src=\"Images/libenzheng.png\" alt=\"Ben-Zheng Li\"");
-document.write("width=\"162.6\" height=\"200\"> <\/td>");
+document.write("width=\"150\" height=\"200\"> <\/td>");
 document.write("<td>");
 document.write("<h1>Ben-Zheng Li</h1>");
 document.write("<br>");
