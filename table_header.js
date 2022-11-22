@@ -4,7 +4,7 @@ document.write("<tr>");
 document.write("<td> <img src=\"Images/libenzheng.png\" alt=\"Ben-Zheng Li\"");
 document.write("width=\"150\" height=\"200\"> <\/td>");
 document.write("<td>");
-document.write("<h1>Ben-Zheng Li</h1>");
+document.write("<h1>Ben-Zheng Li (李本正)</h1>");
 document.write("<br>");
 document.write("<b>Ph.D. Candidate</b>");
 document.write("<br>");
