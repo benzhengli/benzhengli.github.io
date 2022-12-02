@@ -18,6 +18,8 @@ document.write(" Chengdu, Sichuan, China. <br>");
 document.write("E-mail: lbz1604179601@126.com <br>");
 document.write("<br>");
 document.write("&nbsp;");
+document.write("<a href=\"https://www.researchgate.net/profile/Ben-Zheng-Li-2"><img src=\"Images\/Researchgate.jpg\" alt=\"Researchgate\" width=\"25\" border=\"0\" height=\"25\"> <\/a> &nbsp;");
+
 document.write("<\/td>");
 document.write("<\/tr>");
 document.write("<\/tbody>");
