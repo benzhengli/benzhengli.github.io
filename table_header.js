@@ -15,7 +15,7 @@ document.write("<br>");
 document.write("<br>");
 document.write("<b>Contact info:</b><br>");
 document.write(" Chengdu, Sichuan, China. <br>");
-document.write("E-mail: lbz1604179601@126.com <br>");
+document.write("E-mail: lbz1604179601@126.com, lbz1604179601@gmail.com <br>");
 document.write("<br>");
 document.write("&nbsp;");
 document.write("<a href=\"https://scholar.google.com/citations?hl=en&user=pXU2ncUAAAAJ&view_op=list_works&gmla=AJsN-F67h7paSgOvSMBZ6ntHaz0EriF3wdjLA39Iavpb_ywY90kAcAojuehiY1dxwVRZfS6E2RjZlSOrJXRwNW4iylxFynymZWzYLo9L7jDVGwGgJKWkakN5i1wqHE7YkUjofT6B_6uCkDPQOAVlLklQMGPL8Pvqkg\"><img src=\"Images\/scholar.png\" alt=\"GitHub\" width=\"25\" border=\"0\" height=\"25\"> <\/a> &nbsp;");
