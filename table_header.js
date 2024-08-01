@@ -1,4 +1,4 @@
-document.write("<table width=\"750\" border=\"0\" height=\"184\">");
+document.write("<table width=\"950\" border=\"0\" height=\"184\">");
 document.write("<tbody>");
 document.write("<tr>");
 document.write("<td> <img src=\"Images/athens-lbz.JPG\" alt=\"Ben-Zheng Li\"");
