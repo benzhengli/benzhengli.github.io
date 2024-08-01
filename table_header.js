@@ -11,6 +11,8 @@ document.write("<br>");
 
 document.write("<a href=\"https:\/\/www.uestc.edu.cn\"> University of Electronic Science and Technology of China <\/a></b>");
                
+document.write("<a href=\"https:\/\/www.uestc.edu.cn\"> University of Electronic Science and Technology of China <\/a></b>");
+               
 document.write("<br>");
 document.write("<br>");
 document.write("<b>Contact info:</b><br>");
