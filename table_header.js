@@ -1,7 +1,7 @@
 document.write("<table width=\"650\" border=\"0\" height=\"184\">");
 document.write("<tbody>");
 document.write("<tr>");
-document.write("<td> <img src=\"Images/athens.jpg\" alt=\"Ben-Zheng Li\"");
+document.write("<td> <img src=\"Images/Athens.jpg\" alt=\"Ben-Zheng Li\"");
 document.write("width=\"250\" height=\"200\"> <\/td>");
 document.write("<td>");
 document.write("<h1>Ben-Zheng Li (李本正)</h1>");
