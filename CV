@@ -50,7 +50,11 @@
 
 <h1>Full CV<h1>
 <hr>
-<embed src="https://benzhengli.github.io/Images/CV.pdf" type="application/pdf" height="500px" width="900px"/>
+<iframe src="https://benzhengli.github.io/Images/CV.pdf" 
+        width="900" 
+        height="500" 
+        style="border:none;">
+</iframe>
 
           
 <br>
