@@ -4,25 +4,18 @@
     <link rel="stylesheet" href="style.css">
     <title>Ben-Zheng Li</title>
 
-
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-26204762-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
-
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-26204762-1']);
+      _gaq.push(['_trackPageview']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
   </head>
-
 
   <body>
     <div id="page">
@@ -38,28 +31,25 @@
             <li><a href="people.html">People</a></li>
             <li><a class="active" href="CV.html">CV</a></li>
           </ul>
-  <br>
-          <script src="table_header.js"></script> </div>
+          <br>
+          <script src="table_header.js"></script>
+        </div>
+      </div>
 
       <div id="wrapper" class="main">
         <div id="content">
-<br>
-<br>
-<br>
-<br>
-
-<h1>Full CV<h1>
-<hr>
-<iframe src="https://benzhengli.github.io/Images/CV.pdf" 
-        width="900" 
-        height="500" 
-        style="border:none;">
-</iframe>
-
-          
-<br>
-<br>
-</div>
-
- </body>
+          <br><br><br><br>
+          <h1>Full CV</h1>
+          <hr>
+          <iframe src="https://benzhengli.github.io/Images/CV.pdf" 
+                  width="900" 
+                  height="500" 
+                  style="border:none;">
+          </iframe>
+          <br><br>
+        </div>
+      </div>
+    </div>
+  </body>
 </html>
+
