@@ -5,7 +5,7 @@ document.write("<td width=\"350\"> <img src=\"Images/athens-lbz.JPG\" alt=\"Ben-
 document.write("<td>");
 document.write("<h1>Ben-Zheng Li (李本正)<\/h1>");
 document.write("<br>");
-document.write("<b>Associate Professor<\/b>");
+document.write("<b>Assistant Professor<\/b>");
 document.write("<br>");
 // 注意这里的引号转义和标签匹配
 document.write("<a href=\"https://maths.ccnu.edu.cn/\"> School of Mathematics and Statistics <\/a>");
