@@ -1,7 +1,7 @@
 document.write("<table width=\"850\" border=\"0\" height=\"184\">");
 document.write("<tbody>");
 document.write("<tr>");
-document.write("<td width=\"350\"> <img src=\"Images/athens-lbz.JPG\" alt=\"Ben-Zheng Li\" width=\"350\" height=\"250\"> <\/td>");
+document.write("<td width=\"350\"> <img src=\"Images/athens-lbz.JPG\" alt=\"Ben-Zheng Li\" width=\"320\" height=\"250\"> <\/td>");
 document.write("<td>");
 document.write("<h1>Ben-Zheng Li (李本正)<\/h1>");
 document.write("<br>");
@@ -9,6 +9,7 @@ document.write("<b>Associate Professor<\/b>");
 document.write("<br>");
 // 注意这里的引号转义和标签匹配
 document.write("<a href=\"https://maths.ccnu.edu.cn/\"> School of Mathematics and Statistics <\/a>");
+document.write("<br>");
 document.write("<a href=\"https://www.ccnu.edu.cn/\"> Central China Normal University <\/a>");
 document.write("<br><br>");
 document.write("<b>Contact info:<\/b><br>");
