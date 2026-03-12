@@ -8,10 +8,12 @@ document.write("<br>");
 document.write("<b>Associate Professor<\/b>");
 document.write("<br>");
 // 注意这里的引号转义和标签匹配
-document.write("<a href=\"https://maths.ccnu.edu.cn/\"> School of Mathematics and Statistics, Central China Normal University <\/a>");
+document.write("<a href=\"https://maths.ccnu.edu.cn/\"> School of Mathematics and Statistics <\/a>");
+document.write("<a href=\"https://www.ccnu.edu.cn/\"> Central China Normal University <\/a>");
 document.write("<br><br>");
 document.write("<b>Contact info:<\/b><br>");
 document.write(" Wuhan, Hubei, China. <br>");
+document.write("Office: Room 306, Math. Building<br>");
 document.write("E-mail: lbz1604179601@ccnu.edu.cn, lbz1604179601@126.com<br>");
 document.write("<br>");
 document.write("&nbsp;");
