@@ -15,7 +15,7 @@ document.write("<br>");
 document.write("<b>Contact info:<\/b><br>");
 document.write(" Wuhan, Hubei, China. <br>");
 document.write("Office: Room 306, Math. Building<br>");
-document.write("E-mail: lbz1604179601@ccnu.edu.cn, lbz1604179601@126.com<br>");
+document.write("E-mail: mathlibz@ccnu.edu.cn, lbz1604179601@126.com<br>");
 document.write("&nbsp;");
 document.write("<a href=\"https://scholar.google.com/...\"><img src=\"Images/scholar.png\" alt=\"Scholar\" width=\"25\" height=\"25\" border=\"0\"> <\/a> &nbsp;");
 document.write("<a href=\"https://www.researchgate.net/...\"><img src=\"Images/Researchgate.jpg\" alt=\"Researchgate\" width=\"25\" height=\"25\" border=\"0\"> <\/a> &nbsp;");
