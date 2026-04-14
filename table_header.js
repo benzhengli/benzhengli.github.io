@@ -5,20 +5,20 @@ document.write("<tr>");
 document.write("<td width=\"350\" style=\"vertical-align: top;\"> <img src=\"Images/athens-lbz.JPG\" alt=\"Ben-Zheng Li\" width=\"320\" height=\"250\"> <\/td>");
 
 // 1. 将 line-height (行高) 从 1.8 调小到了 1.4，去掉了多余的顶部内边距
-document.write("<td style=\"line-height: 1.1; vertical-align: top;\">");
+document.write("<td style=\"line-height: 1.2; vertical-align: top;\">");
 
 // 2. 将标题下方的间距从 15px 缩小到 10px
-document.write("<h1 style=\"margin-top: 0; margin-bottom: 5px;\">Ben-Zheng Li (李本正)<\/h1>");
+document.write("<h1 style=\"margin-top: 0; margin-bottom: 6px;\">Ben-Zheng Li (李本正)<\/h1>");
 
 // 3. 将区块间的间距从 20px 缩小到 12px
-document.write("<div style=\"margin-bottom: 9px;\">");
+document.write("<div style=\"margin-bottom: 10px;\">");
 document.write("<b>Assistant Professor<\/b><br>");
 document.write("<a href=\"https://maths.ccnu.edu.cn/\"> School of Mathematics and Statistics <\/a><br>");
 document.write("<a href=\"https://www.ccnu.edu.cn/\"> Central China Normal University <\/a>");
 document.write("<\/div>");
 
 // 同上，缩小间距为 12px
-document.write("<div style=\"margin-bottom: 9px;\">");
+document.write("<div style=\"margin-bottom: 10px;\">");
 document.write("<b>Contact info:<\/b><br>");
 document.write("Wuhan, Hubei, China. <br>");
 document.write("Office: Room 306, Math. Building<br>");
