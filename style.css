@@ -228,6 +228,14 @@ list-style-type: square;
 padding: 3px 0px;
 }
 
+#content .course-materials ul ul {
+padding: 0px 0px 0px 20px;
+}
+
+#content .course-materials ul ul li {
+list-style-type: disc;
+}
+
 #sidebar ul {
     list-style-type: none;
 }
